@@ -12,8 +12,5 @@ Added line 17
 Added line 18
 Added line 19
 Added line 20
-<<<<<<< HEAD
 21
 
-=======
->>>>>>> parent of 530ec8b (Added2 1)
